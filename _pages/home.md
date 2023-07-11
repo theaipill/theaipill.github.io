@@ -12,9 +12,9 @@ I have worked on some cool projects in object detection, scene understanding, ob
 
 I have more than twelve years of experience working in a researcher and developer capacity. 
 
-I enjoy working with multidisciplinary teams from various backgrounds and skillsets. I have experience working with small, agile startup teams, corporate cultures, mid-size and post-IPO companies. Though I have fun at each of these place, my favorite has been small high-impact teams spinning out quick MVP's with tangible customer feedback loops.
+I enjoy working with multidisciplinary teams from various backgrounds and skill-sets. I have experience working with small, agile startup teams, corporate cultures, mid-size and post-IPO companies. Though I have fun at each of these place, my favorite has been small high-impact teams spinning out quick MVP's with tangible customer feedback loops.
 
-I have played dual roles, both an independent contributor as well as a Technical lead and I value curiosity, humility knowledge sharing and mature coding practices.
+I have played dual roles, both as an IC as well as a Technical lead. I value curiosity, humility knowledge sharing and mature coding practices.
 
 Please take a look at [some of my work](/work).
 
