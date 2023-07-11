@@ -7,9 +7,14 @@ classes: wide
 ---
 
 Hi! I'm a Senior Computer Vision and Machine Learning specialist, with background in Electronics and Computer Science Engineering. 
-I focused on the Intelligent Systems track during Masters education comprising of Machine Learning, Computer Vision, Robotics, Patent Law, ARtificial Intelligence and Robotics.
-I am mainly interested in the intersection of computer vision and edge computing, machine learning based recommender systems, machine unlearning theroy for privacy preserving model generation, 
-facial analysis and tracking, person identity abstraction and encapsulation, semantic visual understanding and reasoning systems and theoretical computer vision methods.
+I focused on the Intelligent Systems track during Masters education comprising of Machine Learning, Computer Vision, Robotics, Patent Law, Artificial Intelligence and Robotics.
+
+I am mainly interested in the intersection of computer vision and edge computing, machine learning based recommender systems, machine unlearning theory for privacy preserving model generation, 
+facial analysis and tracking, person identity abstraction and encapsulation, semantic visual understanding and reasoning systems and theoretical computer vision methods. 
+
+Some areas I read about and work on in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
+
+Being a seasoned player in the computer vision and machine learning field for over a decade, I constantly question the end result of my work and strive to ensure that they are used ethically and responsibly. 
 
 I have more than twelve years of experience working in a researcher and developer capacity in Toyota R&D in Mountain View
 , unicorn startups like Verkada and Latch, Kargo-a seed startup company and lately at Toyota Connected North America in the Mobility Data Science group.
