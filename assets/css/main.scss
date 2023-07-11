@@ -1,0 +1,69 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+    font-size: 16px; // change to whatever
+
+    @include breakpoint($medium) {
+        font-size: 14px; // change to whatever
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // change to whatever
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // change to whatever
+    }
+}
+
+.small-grey {
+    font-size: .85em;
+    color: #7a8288;
+}
+
+.pull-right {
+    float: right;
+}
+
+.mt-2 {
+    margin-top: .25em;
+}
+
+
+.gallery-scroll {
+    display: flex;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    overflow-x: scroll;
+    height: 300px;
+    padding: .5rem 0;
+}
+
+.gallery-scroll .image-popup {
+    margin: .5rem;
+    scroll-snap-align: center;
+    flex: none;
+}
+
+.gallery-img {
+    height: 100%;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+}
+
+.gallery-caption {
+    display: inline-block;
+    width: 100%;
+    color: #646769;
+    font-family: Georgia, Times, serif;
+    font-size: .75em !important;
+    margin: .5rem 0 .8rem !important;
+}
