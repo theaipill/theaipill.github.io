@@ -44,8 +44,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 author:
   name             : "Preeti Pillai"
   avatar           : "/images/prfl.png"
-  bio              : "AI Applied R&D "
-  location         : "Dallas"
+  bio              : "Applied AI R&D "
+  location         : "Dallas, TX"
   employer         :
   email            : "pillaijpreeti@gmail.com"
   links:
@@ -62,12 +62,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PreetiPillai14"
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/theaipill"
+
 
 
 # Defaults
