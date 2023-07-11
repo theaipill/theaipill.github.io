@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: "/"
+#
+#  - title: "Work"
+#    url: /work/
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Hobbies"
+    url: /hobbies/
