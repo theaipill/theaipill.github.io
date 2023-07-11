@@ -6,10 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-### Computer Science
+### Publications
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-** **, *IEEE ITSC, 2016*  
+**Title**, *IEEE ITSC, 2016*  
 ..  
 [Link text](Link)
+
+### Invention Disclosures
+{: style="font-size:.85em; color: #7a8288;"}
+---

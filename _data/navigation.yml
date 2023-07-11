@@ -2,9 +2,6 @@
 main:
   - title: "About"
     url: "/"
-#
-#  - title: "Work"
-#    url: /work/
 
   - title: "Professional Work"
     url: /professional/
@@ -14,3 +11,6 @@ main:
 
   - title: "Hobbies"
     url: /hobbies/
+
+  - title: "Blogs"
+    url: /blog/

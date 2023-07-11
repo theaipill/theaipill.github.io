@@ -10,7 +10,7 @@ In school I was quite obsessed with trigonometry and, with complex systems durin
 Someday I want to pick these where I left off! 
 
 I delved briefly in Complex Systems during my Masters and it has been one of the most fascinating course of my education. 
-I have a Goldendoodle named Kishmish, my latest obsession, who is also my WFH deskmate. 
+I have a Goldendoodle named Kishmish, who is my stressbuster and my WFH deskmate. 
 
 Like most Indians, I am multi-lingual and speak three languages fluently (Engligh, Tamil and Hindi). 
 I took French for two years in college, beginner Japanese during my research dayas at Toyota and Marathi during school. 
