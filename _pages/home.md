@@ -6,8 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I'm a Senior Computer Vision and Machine Learning specialist, with background in Electronics and Computer Science Engineering. 
-I focused on the Intelligent Systems track during Masters education comprising of Machine Learning, Computer Vision, Robotics, Patent Law, Artificial Intelligence and Robotics.
+Hi! I'm a Senior Computer Vision and Machine Learning specialist, with background in Electronics and Computer Science Engineering, worked across multiple domains including automotive IoT
+, enterprise surveillance, residential security, connected vehicle technology, logistics warehousing and driver-vehicle safety.
+During my Masters, I focused on the Intelligent Systems track, comprising of Machine Learning, Computer Vision, Robotics, Patent Law, Artificial Intelligence and Robotics.
 
 I am mainly interested in the intersection of computer vision and edge computing, machine learning based recommender systems, machine unlearning theory for privacy preserving model generation, 
 facial analysis and tracking, person identity abstraction and encapsulation, semantic visual understanding and reasoning systems and theoretical computer vision methods. 
