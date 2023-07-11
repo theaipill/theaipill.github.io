@@ -56,13 +56,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theaipill"
-footer:
-  links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/preetijspillai/"
-footer:
-  links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
       url: "https://scholar.google.com/citations?user=64ngaD4AAAAJ&hl=en"
