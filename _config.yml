@@ -21,7 +21,7 @@
 title: Preeti Pillai
 email: pillaijpreeti@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Preeti Pillai, Senior ML/CV Technologist
+  Preeti Pillai, Senior Machine Learning/ Computer Vision Technologist
 domain: theaipill.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theaipill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -48,10 +48,6 @@ author:
   location         : "Dallas"
   employer         :
   email            : "pillaijpreeti@gmail.com"
-  github           : "theaipill"
-
-# Site Footer
-footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -62,6 +58,16 @@ footer:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
       url: "https://scholar.google.com/citations?user=64ngaD4AAAAJ&hl=en"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/PreetiPillai14"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/theaipill"
 
 
 # Defaults

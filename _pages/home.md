@@ -13,7 +13,7 @@ During my Masters, I focused on the Intelligent Systems track, comprising of Mac
 I am mainly interested in the intersection of computer vision and edge computing, machine learning based recommender systems, machine unlearning theory for privacy preserving model generation, 
 facial analysis and tracking, person identity abstraction and encapsulation, semantic visual understanding and reasoning systems and theoretical computer vision methods. 
 
-Some areas I read about and work on in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
+Some areas I enjoy exploring in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
 
 Being a seasoned player in the computer vision and machine learning field for over a decade, I constantly question the end consumer of my work and strive to ensure that they are used ethically and responsibly. 
 
