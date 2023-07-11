@@ -15,4 +15,4 @@ University of Michigan, *Ann Arbor*
 
 
 **Bachelor in Electronics and Telecommunication Engineering**, *2004-2008*  
-Lokmanya Tilek College of Engineering, University of Mumbai, *India*
+Lokmanya Tilak College of Engineering, University of Mumbai, *India*
