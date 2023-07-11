@@ -14,7 +14,7 @@ facial analysis and tracking, person identity abstraction and encapsulation, sem
 
 Some areas I read about and work on in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
 
-Being a seasoned player in the computer vision and machine learning field for over a decade, I constantly question the end result of my work and strive to ensure that they are used ethically and responsibly. 
+Being a seasoned player in the computer vision and machine learning field for over a decade, I constantly question the end consumer of my work and strive to ensure that they are used ethically and responsibly. 
 
 I have more than twelve years of experience working in a researcher and developer capacity in Toyota R&D in Mountain View
 , unicorn startups like Verkada and Latch, Kargo-a seed startup company and lately at Toyota Connected North America in the Mobility Data Science group.
