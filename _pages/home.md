@@ -6,17 +6,19 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I'm a Senior Computer Vision and Machine Learning specialist, with a master's degrees in Computer Science Engineering. In my professional experience, 
-I have worked on some cool projects in object detection, scene understanding, object tracking, motion understanding.
+Hi! I'm a Senior Computer Vision and Machine Learning specialist, with background in Electronics and Computer Science Engineering. 
+I focused on the Intelligent Systems track during Masters education comprising of Machine Learning, Computer Vision, Robotics, Patent Law, ARtificial Intelligence and Robotics.
+I am mainly interested in the intersection of computer vision and edge computing, machine learning based recommender systems, machine unlearning theroy for privacy preserving model generation, 
+facial analysis and tracking, person identity abstraction and encapsulation, semantic visual understanding and reasoning systems and theoretical computer vision methods.
 
-
-I have more than twelve years of experience working in a researcher and developer capacity. 
+I have more than twelve years of experience working in a researcher and developer capacity in Toyota R&D in Mountain View
+, unicorn startups like Verkada and Latch, Kargo-a seed startup company and lately at Toyota Connected North America in the Mobility Data Science group.
 
 I enjoy working with multidisciplinary teams from various backgrounds and skill-sets. 
 I have experience working with small, agile startup teams, corporate cultures, mid-size and post-IPO companies. 
-Though I have had my share of fun at each of these places, my favorite tribe has been small high-impact teams spinning out quick MVP's with tangible customer feedback loops.
+Though I have had my share of fun at each of these places, my dream tribe reains a small high-impact team spinning out quick MVP's with tangible, iterative, customer feedback loops.
 
-I have played dual roles, both as an IC as well as a Technical lead. I value curiosity, humility knowledge sharing and mature coding practices.
+I have worn multiple roles during my career: IC, Technical Lead, Researcher, early stage engineer/builder, interim technical product manager. I value curiosity, humility, knowledge-sharing and mature coding practices.
 
 [//]: # (Please take a look at [some of my work]&#40;/work&#41;.)
 
