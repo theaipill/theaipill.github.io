@@ -23,4 +23,3 @@ Please take a look at [some of my work](/work).
 Here is my [resume]() ().
 
 Please contact me with any questions (email on the left).
-
