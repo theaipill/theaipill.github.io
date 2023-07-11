@@ -18,7 +18,7 @@ Though I have had my share of fun at each of these places, my favorite tribe has
 
 I have played dual roles, both as an IC as well as a Technical lead. I value curiosity, humility knowledge sharing and mature coding practices.
 
-Please take a look at [some of my work](/work).
+[//]: # (Please take a look at [some of my work]&#40;/work&#41;.)
 
 Here is my [resume]() ().
 
