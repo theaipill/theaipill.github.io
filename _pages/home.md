@@ -11,9 +11,10 @@ I am mainly interested in the intersection of computer vision and edge computing
 facial analysis and tracking, person identity abstraction and encapsulation, scene understanding and abstraction, semantic visual understanding and reasoning systems and theoretical computer vision methods. 
 Some areas I enjoy exploring in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
 
-During my Masters from a previous era, I focused on the Intelligent Systems track, comprising of Machine Learning, Computer Vision, Robotics, Patent Law, Artificial Intelligence and Robotics. This spiraled into a decades long professional adventure in automotive IoT
+During my Masters from a previous era, I focused on the Intelligent Systems track, comprising of Machine Learning, Computer Vision, Robotics, Patent Law, Artificial Intelligence and Robotics. 
+This spiraled into a decades long professional adventure in automotive, IoT
 , enterprise surveillance, residential security, connected vehicle technology, logistics warehousing and driver-vehicle safety domains. I have enjoyed watching the field of computer vision blossom and spread it's web across industries. I feel this is just the beginning. 
-I hold more than 10 multi-national patent invention disclosures and related publications in prominent conferences. 
+My work has resulted in more than 10 multi-national patent invention disclosures and related publications in prominent conferences. 
 
 As a seasoned player and spectator of AI growth in the computer vision and machine learning field for over a decade, I constantly question the end consumer of my work and strive to ensure that they are used ethically and responsibly.
 
