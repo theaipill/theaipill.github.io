@@ -12,6 +12,7 @@ My work life frequently focuses in solving the below problems:
 * practical AI applications in connected vehicle technology (privacy, safety, distraction control)
 * intersection of computer vision and edge computing
 * machine learning based recommender systems
+* NLP: Information Retrieval, Semantic context based search
 * IoT security applications and automation (smart home, shared spaces)
 * machine unlearning theory for privacy preserving model generation
 * facial analysis and tracking
