@@ -12,7 +12,7 @@ I'm a Computer Vision and Machine Learning specialist, with a background in Elec
 I have been in the industry for over 12 years now, have enjoyed being a spectator as well as a participant working on emerging AI trends in the industry, watching the field of computer vision blossom and spread it's web across industries. 
 What we are witnessing today (the hype with LLM's and Gen AI) is just the beginning and I am excited to what is yet to come.
 
-I have worn multiple hats during my career- IC, Technical Lead, Researcher, early stage startup engineer/builder, interim technical product manager.
+I have worn multiple hats during my career- IC, Technical Lead, Researcher, Manager, early stage startup engineer < 5 engineers, interim Technical Product Manager.
 I have experience working with multidisciplinary teams from various backgrounds and skill-sets; small, agile startup teams, corporate cultures, mid-size and post-IPO companies. 
 Though I have had my share of fun at diverse work cultures and team sizes, my dream tribe remains a small high-impact team spinning out quick MVP's with tangible, iterative, customer feedback loops.
 
