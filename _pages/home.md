@@ -38,18 +38,18 @@ I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, y
 ### Professional Updates
 
 * 2023: Elevated to Senior IEEE Member 
-* June 2023: Invited to serve as Reviewer for IEEE ITSC, 2023
+* June 2023:  Reviewer for IEEE ITSC, 2023
 * July 2023: Invited to serve as Industry Expert judge at Golden Bridge Business Awards
 * July 2023: Invited to serve as Panelist and Session Moderator at NASA's Frontier Development Lab on the ML talk 'Machine Learning Theory and Integration'
 * March 2023: A Generative AI project I closely worked on was showcased at New York International Autoshow (NYIAS)
 * September 2022: Patent application filed by Latch Inc for a new product vertical I led and managed as principal investigator while at Latch
 * 2021: Invited to serve as reviewer at IEEE IV (Intelligent Vehicles) Symposium
 * 2020 : Invited to serve as Judge for Pass It On awards (PIO) at GHC 2020. I helped the team review projects grants of women in STEM and help advance women in computing 
-* March 2019 : Invited to serve on two committees (Data Science and Poster Session) at GHC conference, review speaker and paper applications.
-* March 2018: Invited to serve on Artificial Intelligence Committee at GHC conference, review speaker and paper applications.
+* March 2019 : Served on two committees (Data Science and Poster Session) at GHC conference, review speaker and paper applications.
+* March 2018: Artificial Intelligence Committee member at GHC conference, review speaker and paper applications.
 * June 2017: Patent application granted 'Real time Driving Difficulty Categorization'
-* November 2016: Invited to serve as Session Chair for Driver Assistance Systems track IV at ITSC, Rio de Janeiro, Brazil
-* November 2016: Invited to serve as Session Chair for Driver Assistance Systems track II at ITSC, Rio de Janeiro, Brazil
+* November 2016: Invited by ITSC to serve as Session Chair for Driver Assistance Systems track IV at ITSC, Rio de Janeiro, Brazil
+* November 2016: Invited by ITSC to serve as Session Chair for Driver Assistance Systems track II at ITSC, Rio de Janeiro, Brazil
 * September 2016: Invited to serve as AI judge for IoT Hackathon series at SJSU graduate college of engineering.
 * May 2016: Patent application filed by Toyota Motor Corporation (on driver distraction and in-car hand movement analysis)
 * August 2016: Paper accepted to ITSC 2016, Rio de Janeiro, Brazil 
