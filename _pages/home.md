@@ -8,7 +8,20 @@ classes: wide
 
 I'm a Computer Vision and Machine Learning specialist, with a background in Electronics, Telecommunication and Computer Science Engineering.
 
-My work life frequently focuses in solving the below problems:
+---
+I have been in the industry for over 12 years now, have enjoyed being a spectator as well as a participant working on emerging AI trends in the industry, watching the field of computer vision blossom and spread it's web across industries. 
+What we are witnessing today (the hype with LLM's and Gen AI) is just the beginning and I am excited to what is yet to come.
+
+I have worn multiple hats during my career- IC, Technical Lead, Researcher, early stage startup engineer/builder, interim technical product manager.
+I have experience working with multidisciplinary teams from various backgrounds and skill-sets; small, agile startup teams, corporate cultures, mid-size and post-IPO companies. 
+Though I have had my share of fun at diverse work cultures and team sizes, my dream tribe remains a small high-impact team spinning out quick MVP's with tangible, iterative, customer feedback loops.
+
+Other areas I enjoy exploring in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
+
+I value curiosity, humility, knowledge-sharing and mature coding practices and believe that a good attitude surpasses intelligence any day for a functional & high-performing team.
+I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, you can do so via email or LinkedIn _(links on the left)_.
+
+My work life frequently focuses on solving problems in the following domains:
 * Practical AI applications in connected vehicle technology (privacy, safety, distraction control)
 * Intersection of computer vision and edge computing
 * Machine learning based recommender systems
@@ -23,23 +36,9 @@ My work life frequently focuses in solving the below problems:
 * image retrieval for recommendation systems
 * privacy-preserving AI and federated learning applications
 
----
-I have been in the industry for over 12 years now, have enjoyed being a spectator as well as a participant working on emerging AI trends in the industry, watching the field of computer vision blossom and spread it's web across industries. 
-What we are witnessing today (the hype with LLM's and Gen AI) is just the beginning and I am excited to what is yet to come.
-
-I have worn multiple hats during my career- IC, Technical Lead, Researcher, early stage startup engineer/builder, interim technical product manager.
-I have experience working with multidisciplinary teams from various backgrounds and skill-sets; small, agile startup teams, corporate cultures, mid-size and post-IPO companies. 
-Though I have had my share of fun at diverse work cultures and team sizes, my dream tribe remains a small high-impact team spinning out quick MVP's with tangible, iterative, customer feedback loops.
-
-Other areas I enjoy exploring in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
-
-I value curiosity, humility, knowledge-sharing and mature coding practices and believe that a good attitude surpasses intelligence any day for a functional & high-performing team.
-I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, you can do so via email or LinkedIn _(links on the left)_.
-
-
 ### Professional Updates
 
-* 2023: Elevated to Senior IEEE Member 
+* 2023: Elevated to [Senior IEEE Member](https://r5.ieee.org/houston/about-ieee/ieee-senior-membership/#:~:text=Senior%20Membership%20grade%20is%20held,and%20documented%20achievements%20of%20significance) 
 * June 2023:  Reviewer for IEEE ITSC, 2023
 * July 2023: Invited to serve as Industry Expert judge at [Golden Bridge Awards](https://globeeawards.com/golden-bridge-awards/)
 * July 2023: Invited to serve as Panelist and Session Moderator at NASA's Frontier Development Lab on the ML talk 'Machine Learning Theory and Integration'
