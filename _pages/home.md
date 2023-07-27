@@ -45,7 +45,7 @@ I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, y
 * 2021: Invited to serve as reviewer at IEEE IV (Intelligent Vehicles) Symposium
 * 2020 : Invited to serve as Judge for Pass It On awards (PIO) at GHC 2020. I helped the team review projects grants of women in STEM and help advance women in computing 
 * March 2019 : Invited to serve on two committees (Data Science and Poster Session) at GHC conference, review speaker and paper applications.
-* March 2018: Invited to serve on Artificial Intelligence Committee member at GHC conference, review speaker and paper appplications.
+* March 2018: Invited to serve on Artificial Intelligence Committee at GHC conference, review speaker and paper applications.
 * June 2017: Patent application granted 'Real time Driving Difficulty Categorization'
 * November 2016: Invited to serve as Session Chair for Driver Assistance Systems track IV at ITSC, Rio de Janeiro, Brazil
 * November 2016: Invited to serve as Session Chair for Driver Assistance Systems track II at ITSC, Rio de Janeiro, Brazil
@@ -62,6 +62,6 @@ I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, y
 * October 2013: Paper accepted at Uncertainty in Artificial Intelligence Conference workshop, Washington.
 * August 2013: Patent application filed by Toyota Motor Corporation on road scene understanding and driving score generation
 * Assisted my team at Disney Imagineering R&D present 3D Volumetric Display prototype at Emerging Technologies showcase at SIGGRAPH 2011, Vancouver, Canada
-* 2006-2008: Selected from batch to work on a two-year industrial project for Konkan Railway Corporation Limited where I investigated machine learning techniques to detect and trigger faulty point machine systems on Indian railway lines.
+* 2006-2008: Selected from engineering batch to work on a two-year industrial research project for Konkan Railway Corporation Limited where I investigated machine learning techniques to detect and trigger faulty point machine systems on Indian railway lines.
 
 
