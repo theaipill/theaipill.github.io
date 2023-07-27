@@ -32,12 +32,12 @@ Staff Software Engineer, Technical Lead, Interim Product Manager for a new produ
 Early stage dedicated Computer Vision Engineer in a team of less than 20, developing foundational computer vision and machine learning algorithms for enterprise grade surveillance cameras. The startup is today more than 2000 employees strong, named one of top startups to work for by LinkedIn and has expanded it's engineering and sales divisions worldwide.
 
 ### Toyota Infotechnology Centre, Mountain View, CA 
-Computer Vision applied R&D in the Intelligent Systems Division at Toyota ITC, Silicon Valley's R&D centre. It was merged into Toyota North America in 2018.
+Computer Vision applied R&D in the Intelligent Systems Division at Toyota ITC, Silicon Valley's R&D centre. The division was absorbed into Toyota North America in 2018 
 ## Education
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Master's degree in computer science engineering**, *2009-2011*  
+**Master's degree in Computer Science Engineering**, *2009-2011*  
 University of Michigan, *Ann Arbor*
 
 
