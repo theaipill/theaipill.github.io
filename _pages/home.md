@@ -6,8 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-I'm a Computer Vision and Machine Learning specialist, with background in Electronics and Computer Science Engineering.
-My work frequently focuses in the below fields:
+I'm a Computer Vision and Machine Learning specialist, with a background in Electronics, Telecommunication and Computer Science Engineering.
+
+My work life frequently focuses in solving the below problems:
 * intersection of computer vision and edge computing
 * machine learning based recommender systems
 * AI applications for connected vehicle technology
@@ -18,8 +19,6 @@ My work frequently focuses in the below fields:
 * semantic visual understanding and reasoning systems
 * theoretical computer vision algorithms
 
-I also enjoy investigating applications of computer vision in medical imaging, climate change and traditional ML applications.
-
 ---
 I have been in the industry for over 12 years now, have enjoyed being a spectator as well as a participant working on emerging AI trends in the industry, watching the field of computer vision blossom and spread it's web across industries. 
 What we are witnessing today (the hype with LLM's and Gen AI) is just the beginning and I am excited to what is yet to come.
@@ -28,14 +27,16 @@ I have worn multiple hats during my career- IC, Technical Lead, Researcher, earl
 I have experience working with multidisciplinary teams from various backgrounds and skill-sets; small, agile startup teams, corporate cultures, mid-size and post-IPO companies. 
 Though I have had my share of fun at diverse work cultures and team sizes, my dream tribe remains a small high-impact team spinning out quick MVP's with tangible, iterative, customer feedback loops.
 
+Other areas I enjoy exploring in my spare time are applications of computer vision in medical imaging, climate change and traditional ML applications.
+
 I value curiosity, humility, knowledge-sharing and mature coding practices and believe that a good attitude surpasses intelligence any day for a functional & high-performing team.
 I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, you can do so via email or LinkedIn _(links on the left)_.
-[//]: # (Please take a look at [some of my work]&#40;/work&#41;.)
 
-### News
+
+### Professional Updates
 
 * 2023: Elevated to Senior IEEE Member 
-* June 2023: Invited to serve as Reviewer for IEEE ITSC
+* June 2023: Invited to serve as Reviewer for IEEE ITSC, 2023
 * July 2023: Invited to serve as Industry Expert judge at Golden Bridge Business Awards
 * July 2023: Invited to serve as Panelist and Session Moderator at NASA's Frontier Development Lab on the ML talk 'Machine Learning Theory and Integration'
 * March 2023: A Generative AI project I closely worked on was showcased at New York International Autoshow (NYIAS)
@@ -61,6 +62,5 @@ I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, y
 * August 2013: Patent application filed by Toyota Motor Corporation on road scene understanding and driving score generation
 * Assisted my team at Disney Imagineering R&D present 3D Volumetric Display prototype at Emerging Technologies showcase at SIGGRAPH 2011, Vancouver, Canada
 * 2006-2008: Selected from batch to work on a two-year industrial project for Konkan Railway Corporation Limited where I investigated machine learning techniques to detect and trigger faulty point machine systems on Indian railway lines.
-
 
 
