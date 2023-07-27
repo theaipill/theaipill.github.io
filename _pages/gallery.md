@@ -16,10 +16,11 @@ My work involved computing a computer vision based model that automatically scor
 ![SAE talk](/assets/images/98787576.jpeg)
 
 ---
-My work cubicle and research ideation space at Toyota for 6 years 
+My work cubicle and research ideation space at Toyota R&D for 6 years. 
 ![Toyota cubicle](/assets/images/98767565.jpeg)
 
 ---
+
 I was invited by IEEE ITSC (Intelligent Transportation Systems Conference) to serve as Session Chair for two regular tracks on Driver Assistance Systems. 
 This was around the beginning of the self-driving era, and I was fortunate to be considered for this opportunity, where I helped facilitate the different paper presentations, Q&A from an international audience and meet folks from different automotive  R&D teams across the world.
 ![ITSC Chair](/assets/images/1602247912762.jpeg)
