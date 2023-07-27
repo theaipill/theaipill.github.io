@@ -10,8 +10,8 @@ classes: wide
 
 
 ---
-Patents _(multi-national, worldwide applications)_
----
+## Patents _(multi-national, worldwide applications)_
+
 
 * [US20230086009A1](https://patents.google.com/patent/US20230086009A1), [WO2023049339A1](https://patents.google.com/patent/WO2023049339A1) System and techniques to normalize objects in spatial imaging of spaces
 * [US10970561B2](https://patents.google.com/patent/US10970561B2) Detecting roadway objects in real-time images
@@ -31,8 +31,8 @@ Patents _(multi-national, worldwide applications)_
 
 
 ---
-Publications
----
+## Publications
+
 
 * [Classification of executed and imagined motor movement EEG signals](https://www.semanticscholar.org/paper/Classification-of-Executed-and-Imagined-Motor-EEG-Sleight-Pillai/8a9d0ee78265cee260f1072f81f7819e0f752519), @inproceedings{Sleight2009ClassificationOE,
   title={Classification of Executed and Imagined Motor Movement EEG Signals},
