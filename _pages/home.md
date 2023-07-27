@@ -9,10 +9,10 @@ classes: wide
 I'm a Computer Vision and Machine Learning specialist, with a background in Electronics, Telecommunication and Computer Science Engineering.
 
 My work life frequently focuses in solving the below problems:
-* practical AI applications in connected vehicle technology (privacy, safety, distraction control)
-* intersection of computer vision and edge computing
-* machine learning based recommender systems
-* NLP: Information Retrieval, Semantic context based search
+* Practical AI applications in connected vehicle technology (privacy, safety, distraction control)
+* Intersection of computer vision and edge computing
+* Machine learning based recommender systems
+* NLP: Information Retrieval, Semantic context based search, Vector search
 * IoT security applications and automation (smart home, shared spaces)
 * machine unlearning theory for privacy preserving model generation
 * facial analysis and tracking
@@ -20,6 +20,8 @@ My work life frequently focuses in solving the below problems:
 * scene understanding and ontology abstraction
 * semantic visual understanding and reasoning systems
 * theoretical computer vision algorithms
+* image retrieval for recommendation systems
+* privacy-preserving AI and federated learning applications
 
 ---
 I have been in the industry for over 12 years now, have enjoyed being a spectator as well as a participant working on emerging AI trends in the industry, watching the field of computer vision blossom and spread it's web across industries. 
@@ -39,30 +41,35 @@ I do pro-bono consultations, mentoring and reviewing. If you wish to reach me, y
 
 * 2023: Elevated to Senior IEEE Member 
 * June 2023:  Reviewer for IEEE ITSC, 2023
-* July 2023: Invited to serve as Industry Expert judge at Golden Bridge Business Awards
+* July 2023: Invited to serve as Industry Expert judge at [Golden Bridge Awards](https://globeeawards.com/golden-bridge-awards/)
 * July 2023: Invited to serve as Panelist and Session Moderator at NASA's Frontier Development Lab on the ML talk 'Machine Learning Theory and Integration'
 * March 2023: A Generative AI project I closely worked on was showcased at New York International Autoshow (NYIAS)
 * September 2022: Patent application filed by Latch Inc for a new product vertical I led and managed as principal investigator while at Latch
 * 2021: Invited to serve as reviewer at IEEE IV (Intelligent Vehicles) Symposium
 * 2020 : Invited to serve as Judge for Pass It On awards (PIO) at GHC 2020. I helped the team review projects grants of women in STEM and help advance women in computing 
-* March 2019 : Served on two committees (Data Science and Poster Session) at GHC conference, review speaker and paper applications.
-* March 2018: Artificial Intelligence Committee member at GHC conference, review speaker and paper applications.
+* March 2019 : Served on two committees (Data Science and Poster Session) at [GHC conference](https://ghc.anitab.org/), review speaker and paper applications.
+* March 2018: Artificial Intelligence Committee member at [GHC conference](https://ghc.anitab.org/https://ghc.anitab.org/), review speaker and paper applications.
 * June 2017: Patent application granted 'Real time Driving Difficulty Categorization'
+* 2017: Two patents filed for Road Scene and In-vehicle Situation Understanding
 * November 2016: Invited by ITSC to serve as Session Chair for Driver Assistance Systems track IV at ITSC, Rio de Janeiro, Brazil
 * November 2016: Invited by ITSC to serve as Session Chair for Driver Assistance Systems track II at ITSC, Rio de Janeiro, Brazil
 * September 2016: Invited to serve as AI judge for IoT Hackathon series at SJSU graduate college of engineering.
 * May 2016: Patent application filed by Toyota Motor Corporation (on driver distraction and in-car hand movement analysis)
-* August 2016: Paper accepted to ITSC 2016, Rio de Janeiro, Brazil 
+* August 2016: Paper accepted to [IEEE ITSC 2016](https://web.fe.up.pt/~ieeeitsc2016/index.html), Rio de Janeiro, Brazil 
 * March 2016: Two patent applications on driver distraction analysis and road scene understanding, filed by Toyota Motor Corporation
 * 2016-Present: Reviewer for multiple SAE World Congress conference publications
 * 2016: Paper accepted at SAE World Congress, Detroit
-* 2015 : Paper accepted at IEEE ITSC (Intelligent Transportation Systems) conference, Spain
-* June 2015 : Technical Committee Judge for Innovation Series hosted by US Department of Veteran Affairs. Helped review prosthetic design robotics projects aimed to improve mobility of veterans
+* 2015: Paper accepted at IEEE ITSC (Intelligent Transportation Systems) conference, Spain
+* June 2015: Technical Committee Judge for Innovation Series hosted by US Department of Veteran Affairs. Helped review prosthetic design robotics projects aimed to improve mobility of veterans
 * April 2015: Interviewed by Sirius XM on Empowering Women in Tech, where I discussed my experiences as a woman in STEM and how automotive industries and connected technology can help provide focused assistance using AI to women, mothers and pregnant women.
-* January 2015: Patent application filed by Toyota Motor Corporation 'Real time Driving Difficulty Categorization'
-* October 2013: Paper accepted at Uncertainty in Artificial Intelligence Conference workshop, Washington.
-* August 2013: Patent application filed by Toyota Motor Corporation on road scene understanding and driving score generation
-* Assisted my team at Disney Imagineering R&D present 3D Volumetric Display prototype at Emerging Technologies showcase at SIGGRAPH 2011, Vancouver, Canada
+* February 2014: Patent application filed by Toyota Motor Corporation 'Real time Driving Difficulty Categorization'
+* November 2012: Paper accepted at Uncertainty in Artificial Intelligence Conference workshop, Washington.
+* August 2012: Patent application filed by Toyota Motor Corporation on road scene understanding and driving score generation
+* May 2012: Joined Toyota's Infotechnology Centre (US) as a Computer Vision Researcher in their Intelligent Systems Division(comprising of roboticists, AI, ML and Systems experts).
+* September 2011: Assisted my team at Disney Imagineering R&D present 3D Volumetric Display prototype at Emerging Technologies showcase at SIGGRAPH 2011, Vancouver, Canada
+* 2011: Selected as [Disney Imagineer](https://laist.com/news/entertainment/how-to-become-an-imagineer-according-to-the-disney-documentary-director) at their R&D headquarters for summer of 2012 through an aptitude challenge and interview, where I apprenticed under [Dr. Lanny Smoot](https://en.wikipedia.org/wiki/Lanny_Smoot)
+* 2010: Image Processing Research Assistantship at [NSF ERC for Reconfigurable Manufacturing Systems](https://erc.engin.umich.edu/), implementing research paper for TRINA(Toyota) collaborative project
+* 2009: Admitted to Computer Science Department at University of Michigan, Ann Arbor (8th world ranking dept for CS)
 * 2006-2008: Selected from engineering batch to work on a two-year industrial research project for Konkan Railway Corporation Limited where I investigated machine learning techniques to detect and trigger faulty point machine systems on Indian railway lines.
 
 

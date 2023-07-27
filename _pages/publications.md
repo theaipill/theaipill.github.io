@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "Patents & Publications"
 permalink: /publications/
 author_profile: true
 classes: wide
 ---
 
-### [Google Scholar Link](https://scholar.google.com/citations?user=64ngaD4AAAAJ&hl=en)
+### [Google Scholar Link](https://scholar.google.com/citations?user=64ngaD4AAAAJ&hl=en), h-index:9
 
 ---
 

@@ -9,8 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Hobbies"
-    url: /hobbies/
-
   - title: "Blogs"
     url: /blog/
+
+  - title: "Gallery"
+    url: /blog/
+
+  - title: "Hobbies"
+    url: /hobbies/
