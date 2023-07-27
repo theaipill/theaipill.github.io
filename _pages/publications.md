@@ -10,9 +10,7 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Title**, *IEEE ITSC, 2016*  
-..  
-[Link text](Link)
+_Todo_
 
 ### Invention Disclosures
 {: style="font-size:.85em; color: #7a8288;"}
