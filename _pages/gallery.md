@@ -26,7 +26,7 @@ This was around the beginning of the self-driving era, and I was fortunate to be
 ![ITSC Chair](/assets/images/1602247912762.jpeg)
 
 ---
-While at SAE World Congress 2016 in Detroit for my talk on my paper, I was part of an invite-only lunch with Toyota Motor Chairman Takeshi Uchiyamada, who was also the featured speaker at the conference. This was a special moment for me, as I was the only woman(and the only Indian) from a total of ~65 invitees. 
+While at SAE World Congress 2016 in Detroit for my talk, I was part of an invite-only lunch with Toyota Motor Chairman Takeshi Uchiyamada, who was also the featured speaker at the conference. This was a special moment for me, as I was the only woman(and the only Indian) from a total of ~65 invitees. 
 ![SAE luncheon](/assets/images/1598975123984.jpeg)
 
 ---
