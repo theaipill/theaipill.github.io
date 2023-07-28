@@ -44,5 +44,5 @@ University of Michigan, *Ann Arbor*
 **Bachelor in Electronics and Telecommunication Engineering**, *2004-2008*  
 Lokmanya Tilak College of Engineering, University of Mumbai, *India*
 
-**Embedded Systems Graduate Course, 2008
-KRESIT, IIT Bombay
+**Embedded Systems Graduate Course**, *2008*
+KRESIT, IIT Bombay, *India*
