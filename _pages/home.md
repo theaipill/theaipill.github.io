@@ -6,10 +6,15 @@ author_profile: true
 classes: wide
 ---
 
-Hi, I'm a Computer Vision and Machine Learning specialist in Dallas, Texas (previously a Bay area native).
+Hi, 
+
+I'm a Computer Vision and Machine Learning specialist currently based out of warm Dallas, Texas _(I was previously a Bay area native)_.
+
+
 I have been in the AI industry for over 12 years now, have enjoyed being a spectator as well as an enabler, working on emerging trends (computer vision, deep learning era, self-driving vehicles, IoT, Generative AI and LLM's). 
 It has been a delightful ride so far watching the field of computer vision blossom and spread it's web across industries. 
-What we are witnessing today is just the beginning, and I am excited for what is yet to come! Probably AI will figure out combating climate change and my grandkids can have a normal long life.
+What we are witnessing today is just the beginning, and I am excited for what is yet to come! 
+_(And probably AI will figure out combating climate change issues someday.)_
 
 I have a background in Electronics, Telecommunication and Computer Science Engineering.
 I have adventurously worn multiple hats during my career- IC, Technical Lead, Researcher, Manager, early stage startup engineer < 5 engineers, interim Technical Product Manager.
