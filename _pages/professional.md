@@ -11,7 +11,7 @@ classes: wide
 ---
 During my undergrad, I worked on analyzing faulty point machines using pattern recognition techniques under the supervision of [Dr. Ravishankar Dudhe](https://www.manipaldubai.com/soeit/faculty/faculty-list/ravishankar-dudhe.html), which sparked my interest in Machine Learning. 
 I got accepted for the Masters in Computer Science program at UMich, where I focused on the Intelligent Systems track [Machine Learning, Computer Vision, Image Processing, Robotics, Artificial Intelligence, Robotics]. 
-Post graduation I was selected for a brief co-op role at Disney Imagineering at the R&D headquarters in Glendale. I spent the next five months working under the guidance of distingiushed Senior Scientist [Dr. Lanny Smoot](https://en.wikipedia.org/wiki/Lanny_Smoot), having fun with optics,robotics and re-creating magic with science.
+Post graduation I was selected for a brief co-op role at [Walt Disney Imagineering](https://sites.disney.com/waltdisneyimagineering/) at the R&D headquarters in Glendale. I spent the next five months working under the guidance of distingiushed Senior Scientist [Dr. Lanny Smoot](https://en.wikipedia.org/wiki/Lanny_Smoot), having fun with optics,robotics and re-creating magic with science.
 These cumulative experiences established my foundations for a decades long professional AI adventure in automotive, IoT
 , enterprise surveillance, residential security, connected vehicle technology, logistics warehousing and driver-vehicle safety domains. 
 
