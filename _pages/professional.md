@@ -15,8 +15,8 @@ Post graduation I was selected for a brief co-op role at Disney Imagineering at 
 These cumulative experiences established my foundations for a decades long professional AI adventure in automotive, IoT
 , enterprise surveillance, residential security, connected vehicle technology, logistics warehousing and driver-vehicle safety domains. 
 
-I have been fortunate to work on high impact projects in a researcher and developer capacity at Toyota R&D in Mountain View
-, unicorn startups like Verkada and Latch, Kargo-a seed startup company, Latch-a residential security startup (IPO'd) and lately at Toyota Connected North America in the Mobility Data Science group.
+I have been fortunate to work on high impact projects in a researcher and developer capacity at [Toyota R&D in Mountain View](https://amrd.toyota.com/division/itl/)
+, unicorn startups like Verkada(Series D) and [Latch](https://www.latch.com/)-a residential security startup (IPO'd), [Kargo](mykargo.com)-a seed startup company and lately at [Toyota Connected North America](https://toyotaconnected.com/) in the Mobility Data Science group.
 
 My work has resulted in more than 10 multi-national patent invention disclosures and related publications in prominent conferences.
 
@@ -43,3 +43,6 @@ University of Michigan, *Ann Arbor*
 
 **Bachelor in Electronics and Telecommunication Engineering**, *2004-2008*  
 Lokmanya Tilak College of Engineering, University of Mumbai, *India*
+
+**Embedded Systems Graduate Course, 2008
+KRESIT, IIT Bombay
