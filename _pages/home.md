@@ -43,6 +43,7 @@ Other areas I enjoy exploring in my spare time are applications of computer visi
 
 ### Professional Updates
 
+* August 2023: AI Ethics Reviewer for NeurIPS 2023, ensuring submissions follow principles of ResponsibleAI.
 * 2023: Elevated to [Senior IEEE Member](https://r5.ieee.org/houston/about-ieee/ieee-senior-membership/#:~:text=Senior%20Membership%20grade%20is%20held,and%20documented%20achievements%20of%20significance) 
 * June 2023:  Reviewer for [IEEE ITSC, 2023](https://2023.ieee-itsc.org/)
 * July 2023: Invited to serve as Industry Expert judge at [Golden Bridge Awards](https://globeeawards.com/golden-bridge-awards/)
